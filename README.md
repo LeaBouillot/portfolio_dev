@@ -19,7 +19,7 @@ Ce projet est un portfolio personnel développé avec React et Vite. Il présent
 1. Clonez ce dépôt
    ```bash
    git clone [url-du-dépôt]
-   cd portfolio-lea
+   cd portfolio-dev
    npm install
    npm run dev
 
